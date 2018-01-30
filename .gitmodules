@@ -1,0 +1,3 @@
+[submodule "sources/support/libs"]
+	path = sources/support/libs
+	url = https://github.com/MaximeBaudette/Labview-miscs
