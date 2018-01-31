@@ -37,6 +37,8 @@
 	<Item Name="support" Type="Folder">
 		<Item Name="Enqueue Message (Single).vi" Type="VI" URL="../Enqueue Message (Single).vi"/>
 		<Item Name="Enqueue Message (Array).vi" Type="VI" URL="../Enqueue Message (Array).vi"/>
+		<Item Name="Enqueue Message (same to all queues).vi" Type="VI" URL="../Enqueue Message (same to all queues).vi"/>
+		<Item Name="Enqueue Message (several exceptions same to all queues).vi" Type="VI" URL="../Enqueue Message (several exceptions same to all queues).vi"/>
 		<Item Name="All Message Queues.ctl" Type="VI" URL="../All Message Queues.ctl"/>
 		<Item Name="Message Cluster.ctl" Type="VI" URL="../Message Cluster.ctl"/>
 	</Item>

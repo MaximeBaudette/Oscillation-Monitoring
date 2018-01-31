@@ -96,7 +96,6 @@
 				<Item Name="Get System Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/Get System Directory.vi"/>
 				<Item Name="StrongridDLL.dll" Type="Document" URL="/&lt;vilib&gt;/S3DK/data/StrongridDLL.dll"/>
 				<Item Name="Beep.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/Beep.vi"/>
-				<Item Name="S3DK.lvlib" Type="Library" URL="/&lt;vilib&gt;/S3DK/S3DK.lvlib"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
