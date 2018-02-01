@@ -19,10 +19,13 @@
 		<Item Name="Stop S3DK.vi" Type="VI" URL="../Stop S3DK.vi"/>
 		<Item Name="Shutdown S3DK.vi" Type="VI" URL="../Shutdown S3DK.vi"/>
 	</Item>
-	<Item Name="CSV" Type="Folder"/>
-	<Item Name="Initialize Data Acquisition.vi" Type="VI" URL="../Initialize Data Acquisition.vi"/>
-	<Item Name="Acquire.vi" Type="VI" URL="../Acquire.vi"/>
-	<Item Name="Configure Hardware.vi" Type="VI" URL="../Configure Hardware.vi"/>
-	<Item Name="Stop Acquisition.vi" Type="VI" URL="../Stop Acquisition.vi"/>
+	<Item Name="CSV" Type="Folder">
+		<Item Name="CSV Settings.ctl" Type="VI" URL="../CSV Settings.ctl"/>
+		<Item Name="Initialize CSV.vi" Type="VI" URL="../Initialize CSV.vi"/>
+		<Item Name="Configure CSV.vi" Type="VI" URL="../Configure CSV.vi"/>
+		<Item Name="Acquire CSV.vi" Type="VI" URL="../Acquire CSV.vi"/>
+		<Item Name="Stop CSV.vi" Type="VI" URL="../Stop CSV.vi"/>
+		<Item Name="Shutdown CSV.vi" Type="VI" URL="../Shutdown CSV.vi"/>
+	</Item>
 	<Item Name="Error Handler - Acquisition Message Loop.vi" Type="VI" URL="../Error Handler - Acquisition Message Loop.vi"/>
 </Library>
