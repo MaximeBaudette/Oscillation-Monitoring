@@ -5,7 +5,6 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Display Select.ctl" Type="VI" URL="../Display Select.ctl"/>
-	<Item Name="Signal Selection.vi" Type="VI" URL="../Signal Selection.vi"/>
 	<Item Name="Processing Settings.ctl" Type="VI" URL="../Processing Settings.ctl"/>
 	<Item Name="BP Filter Settings.ctl" Type="VI" URL="../BP Filter Settings.ctl"/>
 	<Item Name="Filters.ctl" Type="VI" URL="../Filters.ctl"/>
