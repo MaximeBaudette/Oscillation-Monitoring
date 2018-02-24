@@ -1,1 +1,2 @@
-sources/Settings/
+sources/Settings/*
+!sources/Settings/placeholder.txt
